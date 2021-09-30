@@ -1,0 +1,14 @@
+.intro {
+	text-align: center;
+}
+
+
+.littleintro {
+	font-size: larger;
+}
+
+.bigbloc {
+	margin: 100px 20px;
+	background-color: #E1E1E1;
+	border-radius: 20%;
+}
