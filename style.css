@@ -20,6 +20,14 @@ li a:hover {
 	color: black;
 }
 
+p a {
+	color: grey;
+}
+
+p a:hover {
+	color: black;
+}
+
 .titleproject {
 	margin-top: 15px;
 }
